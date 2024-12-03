@@ -4,7 +4,7 @@
 # BaiTapReactNativeCuoiKy
 
 <h1>Trang Đăng nhập, Trang đầu</h1>
-![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/9f049c23-e932-4a95-9adc-16f4470e0675)
+![image](https://github.com/user-attachments/assets/9f049c23-e932-4a95-9adc-16f4470e0675)
 
 
 
