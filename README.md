@@ -1,6 +1,7 @@
 # BaiTapReactNativeCuoiKy
 
 <h1>Trang Đăng nhập, Trang đầu</h1>
+![image](iPhone-13-PRO-localhost.png)
 
 
 
