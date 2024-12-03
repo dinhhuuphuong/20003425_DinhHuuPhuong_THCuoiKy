@@ -4,21 +4,10 @@
 
 ![image](https://github.com/nguyenhieu1435/BaiTapReactNativeTuan7Bai1/assets/70377398/bd5f1d90-3bef-491b-b90e-dc2741e69241)
 
-<h1>Trang đăng ký</h1>
-
-![image](https://github.com/nguyenhieu1435/BaiTapReactNativeTuan7Bai1/assets/70377398/e2d2d4b5-8d54-4e0a-9e9f-1e28d7fd3642)
-
-<h3>Thông báo đăng ký thất bại</h3>
-
-![image](https://github.com/nguyenhieu1435/BaiTapReactNativeTuan7Bai1/assets/70377398/c3e8a324-ca8d-40a7-aaf3-7507b209ca9d)
-
-<h3>Thông báo đăng ký thành công</h3>
-
-![image](https://github.com/nguyenhieu1435/BaiTapReactNativeTuan7Bai1/assets/70377398/4c3b6106-cdd6-4304-9a73-eb049f4a3dd5)
 
 <h1>Đăng nhập vào tài khoản</h1
 
-<h3>URL Các tài khoản: https://n38s2n-3000.csb.app/account_tuan7</h3>                        
+                   
 
 ![image](https://github.com/nguyenhieu1435/BaiTapReactNativeTuan7Bai1/assets/70377398/45396cac-7eab-49b8-91e5-ee6f9ffe319e)
 
